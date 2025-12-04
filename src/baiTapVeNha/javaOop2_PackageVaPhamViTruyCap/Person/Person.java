@@ -22,7 +22,7 @@ public class Person {
     private String phone;
 // ham xay dung khong co tham so
 
-    Person(){
+    public Person(){
        name="THU";
        age=30;
        gender= "Female";
